@@ -4,3 +4,10 @@
 .cambio{
     background-color: rgb(111, 159, 247);
 }
+
+@media only screen and (min-width: 480px) {
+
+    .contact{
+        width:-webkit-fill-available;
+    }
+  };
