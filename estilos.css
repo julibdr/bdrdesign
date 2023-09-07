@@ -4,10 +4,12 @@
 .cambio{
     background-color: rgb(111, 159, 247);
 }
-
+html{
+    overflow-x: hidden;
+}
 @media only screen and (min-width: 480px) {
 
     .contact{
-        width:-webkit-fill-available;
+        width:400px;
     }
   };
