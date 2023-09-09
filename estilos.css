@@ -7,8 +7,13 @@
 html{
     overflow-x: hidden;
 }
-#logo{
+.logo{
     margin-left: 10px;
+   
+}
+
+.contact{
+    margin-top: 10px;
 }
 
  ::after, ::before {
